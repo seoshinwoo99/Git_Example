@@ -1,0 +1,14 @@
+/Users/shinwoo/Documents/CODE/Example/bin/Debug/net8.0/Example
+/Users/shinwoo/Documents/CODE/Example/bin/Debug/net8.0/Example.deps.json
+/Users/shinwoo/Documents/CODE/Example/bin/Debug/net8.0/Example.runtimeconfig.json
+/Users/shinwoo/Documents/CODE/Example/bin/Debug/net8.0/Example.dll
+/Users/shinwoo/Documents/CODE/Example/bin/Debug/net8.0/Example.pdb
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/Example.AssemblyInfoInputs.cache
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/Example.AssemblyInfo.cs
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/Example.csproj.CoreCompileInputs.cache
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/Example.dll
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/refint/Example.dll
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/Example.pdb
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/Example.genruntimeconfig.cache
+/Users/shinwoo/Documents/CODE/Example/obj/Debug/net8.0/ref/Example.dll
