@@ -5,7 +5,7 @@ public class Hello
         Console.WriteLine("Hello ShinWoo!!");
     }
 
-    public void ShakeHands()
+    public void ShakeHand()
     {
         Console.WriteLine("ShakeHands!!");
     }
