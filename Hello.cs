@@ -4,4 +4,9 @@ public class Hello
     {
         Console.WriteLine("Hello ShinWoo!!");
     }
+
+    public void ShakeHands()
+    {
+        Console.WriteLine("ShakeHands!!");
+    }
 }
